@@ -5,7 +5,6 @@ http://ethanschoonover.com/solarized
 Adapted for the new Snowsight UI to be used in conjunction with Stylebot by Martin Guindon
 
 Note - This works even better when coupled with the Chome Extension: Dark Reader.
-
 */
 
 /*
@@ -85,7 +84,7 @@ http://ethanschoonover.com/solarized/img/solarized-palette.png
     rendering-intent: auto;
     color: #839496;
     background-color: #002b36;
-    text-shadow: #002b36 0 1px;
+    text-shadow: #002b36 0 px;
     font-size: 15px;
     font-family: 'Inconsolata','Menlo';
 }
@@ -210,7 +209,7 @@ http://ethanschoonover.com/solarized/img/solarized-palette.png
 }
 
 div.CodeMirror-selected {
-    background: #073642;
+background: #0009
 }
 
 .CodeMirror ::selection {
@@ -281,11 +280,12 @@ div.CodeMirror-selected {
     background: rgba(255, 255, 255, 0.06);
 }
 /* Header & Top */
-header.worksheetHeader.hr.hs.ht.hu.g5.hv.hw.hx.hy.ba.bb.hz.g6.ca {
-   background-color: #123;
+header.worksheetHeader {
+   background-color: #122;
 }
 
-div.top-pane.k6.k7.ba.bl.hf.e6 {
+div.top-pane
+ {
    background-color: #073642
 }
 /* Search Header */
@@ -301,35 +301,37 @@ div.eb.ea.bv.bw.bu.e8.e9.bt.lg.lh.ba.cr.cs.bl.ct.li.br.lj.bs.lk.bd.ll.bq.kf.lm.c
   background-color: ghostwhite;
 }
 
+div.lf{
+  background: #11111110;
+}
+
+div.bz{
+    background: #11111110;
+    background-color: #0002
+}
+
 /* Bottom */
-div.g5.hv.hw.hx.ba.cr.cs.bl.e7.h0.i1.ca {
+div.g5 {
      background-color: #11111119;
 }
 
-span.bx.gl.co.b1.h4.ah.ai.cg.ak.f0.f1 {
-  color: #ddd;
+span {
+  color:darkgrey;
 }
 
-div.eb.ea.bv.bw.bu.e8.e9.bt.lg.lh.ba.cr.cs.bl.ct.li.br.lj.bs.lk.bd.ll.bq.kf.lm.ca.ln.lo.lp.lq.lr.de.ah.ai {
-  background-color: ghostwhite;
-}
-
-div.bm.bn.bo.bp.e8.e9.ea.eb.bq.bd.br.bs.f5.b5.en.f6.ej.cz.f7.eg.dl.ia.k8.k9.ka.kb.kc.kd.ke.ib.ic.id.ie.if.ig.ih.ii.ax.bl.kf.ca.cb.cc.b1.ay.fd.ce.cf.cg.ch.ci.cj.ck.ak.kg {
-  background-color:#fff0f6;
-}
 /* Folders Background */
-div.jv.g5.i9.dl.hx.bj.e7 {
-  background-color: #9191;
+div.jv {
+  background-color: #E8E8E8
 }
-
-/* Top Right Buttons */
-div.f3.bc.eo.f4.e8.e9.ea.eb.bq.bd.br.bs.f5.b5.en.f6.ej.cz.f7.eg.eh.f8.c8.f9.ax.bl.fa.ca.fb.fc.b1.ay.fd.ce.fe.cg.ch.ci.cj.ck.ak {
-  background-color: #fff0f6;
+div.hn {
+  background-color:#F2F2F2
 }
-
-div.f3.bc.eo.f4.e8.e9.ea.eb.bq.bd.br.bs.f5.b5.en.f6.bx.cz.f7.eg.eh.f8.c8.f9.ax.bl.fa.ca.fb.fc.b1.ay.fd.ce.fe.cg.ch.ci.cj.ck.ak {
-   background-color:#fff0f6;
+div.g5 {
+   background-color: #E8E8E8
 }
-div.is.it.iu.iv.iw.ix.iy.iz.j0.j1.ba.cr.cs.bl.ce.ck.j2.j3.j4.br.j5.bs.j6.bd.j7.bq.ez.ca.j8.j9.ja.bh.cj {
-  
+div.an{
+     background-color: #F2F2F2
+}
+div.k4 {
+  background-color: #E8E8E8
 }
